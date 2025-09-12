@@ -1,5 +1,7 @@
 # 🛡️ Bagou450 Fixed
 
+Having a license issue? Click [here](https://github.com/orgs/Bagou450-Fixed/discussions/1#discussioncomment-14388038) to see a solution!
+
 > (We are not affiliated with Bagou450 or Pterodactyl panel, but we believe in preserving and securing the work left behind for the benefit of the community.)
 
 **Welcome!**  
@@ -17,7 +19,7 @@ We specialize in identifying and fixing security vulnerabilities in Pterodactyl 
 
 ---
 
-## ⚙️ Current Projects
+## ⚙️ Current Projects (and future plans)
 
 | Project | Description |
 |-------|-------------|
