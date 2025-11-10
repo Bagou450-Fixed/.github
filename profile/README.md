@@ -1,5 +1,7 @@
 # 🛡️ Bagou450 Fixed
 
+> **NOTE:** You've probably noticed by now that it is passed August 2025 and the services (API/CDN, etc) are still up. We have the same lack of knowledge as you. At the moment we aren't planning on quickening progression. We will still offer light support for installing addons.
+
 Having a license issue? Click [here](https://github.com/orgs/Bagou450-Fixed/discussions/1#discussioncomment-14388038) to see a solution!
 
 > (We are not affiliated with Bagou450 or Pterodactyl panel, but we believe in preserving and securing the work left behind for the benefit of the community.)
@@ -24,7 +26,7 @@ We specialize in identifying and fixing security vulnerabilities in Pterodactyl 
 | Project | Description |
 |-------|-------------|
 | Addons | We’ve forked and enhanced addons such as auto-updaters, server importers, and mod installers from Bagou450’s repo. |
-| API & CDN | We host a fully functional mirror of the discontinued Bagou450 API/CDN service slated to shut down in August 2025. |
+| API & CDN | We plan to host a fully functional mirror of the discontinued Bagou450 API/CDN service slated to shut down in August 2025. |
 | Git Patches | Implemening git patches to seamlessly install addons without manual work. |
 
 ---
@@ -42,9 +44,9 @@ We specialize in identifying and fixing security vulnerabilities in Pterodactyl 
 1. Browse our repositories and documentation.
 2. Clone any addon, review the changelog and security notes.
 3. Fork, contribute, or open an issue.
-4. Use our hosted API/CDN for seamless addon downloads and updates.
+4. *(Planned) Use our hosted API/CDN for seamless addon downloads and updates.*
 
-> If you require a large number of api requests (for example being a host) please reach out so we can get you a dedicated api key
+<!-- > If you require a large number of api requests (for example being a host) please reach out so we can get you a dedicated api key -->
 
 ---
 
